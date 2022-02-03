@@ -1,6 +1,6 @@
 {
   "development": {
-    "database": "auth_development",
+    "database": "react-auth-codealong",
     "host": "127.0.0.1",
     "dialect": "postgres"
   }
